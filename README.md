@@ -18,5 +18,14 @@ To install SociaCart on your device, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Run npm install to install all dependencies.
+3. Install all dependencies.
+
+```bash
+npm install
+```
+
 4. Run npm start to launch the application.
+
+```bash
+npm start
+```
